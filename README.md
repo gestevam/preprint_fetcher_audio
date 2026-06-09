@@ -14,16 +14,16 @@ A local tool that fetches daily preprints from bioRxiv, filters by keywords and 
 ## Setup
 
 ```bash
-# 1. Clone the repo or download scripts
+1. Clone the repo or download scripts
 
-# 2. Create a virtual environment
+2. Create a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
-# 3. Install dependencies
+3. Install dependencies
 pip install requests
 
-# 4. Create your personal config
+4. Create your personal config
 cp config.example.json config.json
 ```
 
@@ -44,7 +44,7 @@ Opens `feed_output/index.html` in default browser automatically. Bookmark for da
 
 ## Schedule daily refresh
 
-```bash
+```
 # Install — runs every day at 6 AM
 python scheduler.py --install-launchd
 
