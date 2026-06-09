@@ -14,9 +14,7 @@ A local tool that fetches daily preprints from bioRxiv, filters by keywords and 
 ## Setup
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/preprint-fetcher-audio.git
-cd preprint-fetcher-audio
+# 1. Clone the repo or download scripts
 
 # 2. Create a virtual environment
 python3 -m venv .venv
