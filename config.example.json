@@ -1,0 +1,39 @@
+{
+  "_comment": "Copy this file to config.json and fill in your own values. config.json is personal and should never be shared.",
+
+  "keywords": [
+    "your keyword here",
+    "another keyword"
+  ],
+
+  "authors": [
+    "Lastname AB",
+    "Lastname"
+  ],
+
+  "categories": [
+    "neuroscience",
+    "cell-biology",
+    "genomics",
+    "bioinformatics",
+    "biochemistry",
+    "cancer-biology",
+    "developmental-biology",
+    "ecology",
+    "evolutionary-biology",
+    "genetics",
+    "immunology",
+    "microbiology",
+    "molecular-biology",
+    "pharmacology-and-toxicology",
+    "physiology",
+    "plant-biology",
+    "scientific-communication-and-education",
+    "synthetic-biology",
+    "systems-biology"
+  ],
+
+  "days_back": 1,
+  "max_results": 50,
+  "output_dir": "./feed_output"
+}
