@@ -27,7 +27,7 @@ pip install requests
 cp config.example.json config.json
 ```
 
-Open `config.json` and fill in your keywords, authors, and categories.
+ fill in keywords, authors, and categories, etc
 
 ---
 
