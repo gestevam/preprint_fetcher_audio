@@ -97,4 +97,4 @@ python audio_feed.py
 
 - One HTTPS GET to `api.biorxiv.org` per run
 - No accounts, no API keys, no data stored externally
-- Your keywords and config never leave your machine
+- Keywords and config never leave machine
