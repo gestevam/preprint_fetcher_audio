@@ -85,11 +85,11 @@ python audio_feed.py
 
 | Field | Description |
 |-------|-------------|
-| `keywords` | Matched against title and abstract, case-insensitive |
-| `authors` | Partial match — `"Bhatt"` matches `"Bhatt DL"` etc. Leave as `[]` for keywords only |
+| `keywords` |  title and abstract, case-insensitive |
+| `authors` | partial match — `"Name"` matches `"Name AB"` etc. Leave as `[]` for keywords only |
 | `categories` | bioRxiv subject areas — full list in `config.example.json` |
-| `days_back` | Days to search. Use `7` on first run, then set to `1` |
-| `max_results` | Results cap per run, maximum 200 |
+| `days_back` | days to search. Use `7` on first run, then set to `1` or other preference |
+| `max_results` | results cap per run, maximum 200 |
 
 ---
 
